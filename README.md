@@ -9,7 +9,7 @@ Follow these steps to install and run the app on your local machine:
 ### Clone the repository
 
 ```
-git clone https://github.com/juliannetan/garden-loft-app.git
+git clone https://github.com/whimsical-phoenix/gardenLoft
 ```
 
 ### Navigate to the project directory
